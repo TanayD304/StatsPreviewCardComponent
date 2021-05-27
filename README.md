@@ -28,10 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen Size1](/design/Capture1.JPG)
-![Screen Size2](/design/Capture2.JPG)
-![Screen Size3](/design/Capture3.PNG)
-![Screen Size4](/design/Capture4.PNG)
+![Responsive Site Look](/design/Capture1.JPG)
+
 
 ### Links
 
