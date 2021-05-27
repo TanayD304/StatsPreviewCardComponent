@@ -28,16 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![Screen Size1](/design/Capture1.JPG)
+![Screen Size2](/design/Capture2.JPG)
+![Screen Size3](/design/Capture3.PNG)
+![Screen Size4](/design/Capture4.PNG)
 
 ### Links
 
-- Solution URL: [Github Repo Link]()
-- Live Site URL: [Live Site Link]()
+- Solution URL: [Github Repo Link](https://github.com/TanayD304/StatsPreviewCardComponent)
+- Live Site URL: [Live Site Link](https://nervous-neumann-de51a5.netlify.app/)
 
 ## My process
 
