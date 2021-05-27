@@ -67,4 +67,4 @@ I would like to take a step forward and start learning Grids in CSS. Later on I 
 
 ## Acknowledgments
 
-I would like to thank my friends [Akshi Chauhan](https://www.linkedin.com/in/akshi-chauhan-8783811b1/) and [Shreeya Kapoor](https://www.linkedin.com/in/shreeya-kapoor-0512/) for constanly motivating me and providing and a  tough competition.
+I would like to thank my friends [Akshi Chauhan](https://www.linkedin.com/in/akshi-chauhan-8783811b1/) and [Shreeya Kapoor](https://www.linkedin.com/in/shreeya-kapoor-0512/) for constanly motivating me and providing and a tough competition.
