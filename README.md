@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Responsive Site Look](/design/Capture1.JPG)
+![Responsive Site Look](/design/capture.png)
 
 
 ### Links
