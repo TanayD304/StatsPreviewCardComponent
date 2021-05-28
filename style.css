@@ -14,7 +14,7 @@ section {
   display: flex;
   border-radius: 10px;
   width: 60rem;
-  height: 25rem;
+  height: 20rem;
 }
 
 footer {
@@ -97,9 +97,10 @@ h2 + p {
   opacity: 0.6;
 }
 
-@media (max-width: 60rem) {
+@media (max-width: 75rem) {
   section {
-    height: 70%;
+    width: 50rem;
+    height: 30rem;
     flex-direction: coloumn;
     flex-wrap: wrap;
   }
@@ -121,41 +122,66 @@ h2 + p {
   }
 }
 
+@media (max-width: 60rem) {
+  section {
+    width: 40rem;
+    height: 35rem;
+  }
+}
+
+@media (max-width: 45rem) {
+  section {
+    width: 30rem;
+    height: 40rem;
+  }
+}
+
 @media (max-width: 40rem) {
-    body {
-        height: 150vh;
-    }
+  body {
+    height: 120vh;
+  }
+  section {
+    width: 25rem;
+    height: 45rem;
+  }
+}
+
+@media (max-width: 35rem) {
+  body {
+    height: 125vh;
+    text-align: center;
+  }
+  section {
+    width: 20rem;
+    height: 50rem;
+  }
+  #imgBg {
+    height: 25%;
+  }
+  #content {
+    height: 75%;
+  }
+  #stat {
+    flex-direction: column;
+    height: 50%;
+  }
+  #main {
+    height: 50%;
+  }
 }
 
 @media (max-width: 30rem) {
-    body {
-        text-align: center;
-    }
-    #imgBg {
-        height: 25%;
-    }
-    #content {
-        height: 75%;
-    }
-    #stat {
-        flex-direction: column;
-        height: 50%;
-    }
-    #main {
-        height: 50%;
-    }
-
+  body {
+    height: 150vh;
+  }
+  section {
+    height: 55rem;
+  }
 }
 
-@media(max-width: 20rem) {
-    section {
-        align-self: flex-start;
-        height: 80%;
-        position: relative;
-        bottom: 10%;
-    }
-    footer {
-        position: relative;
-        top: 5%;
-    }
+@media (max-width: 25rem) {
+  body {
+    height: 160vh;
+  }
 }
+
