@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo Link](https://github.com/TanayD304/StatsPreviewCardComponent)
-- Live Site URL: [Live Site Link](https://nervous-neumann-de51a5.netlify.app/)
+- Live Site URL: [Github Repo Link](https://nervous-neumann-de51a5.netlify.app/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-- In my understanding this project helped me in understanding Flex Box concept to a better level.
+- This project helped me in understanding Flex Box concept to a better level.
 - Also this project helped me learning Responsive CSS and mobile based site designing
 - At the end it also helped me making better use of basic CSS Box model, Other useful CSS properties and HTML concept
 
