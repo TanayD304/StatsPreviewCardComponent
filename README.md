@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo Link](https://github.com/TanayD304/StatsPreviewCardComponent)
-- Live Site URL: [Live Site](https://nervous-neumann-de51a5.netlify.app/)
+- Live Site URL: [Live Site](https://project1-by-tanay.netlify.app/)
 
 ## My process
 
