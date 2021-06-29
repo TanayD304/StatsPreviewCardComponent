@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution - By Tanay Dubey
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo Link](https://github.com/TanayD304/StatsPreviewCardComponent)
-- Live Site URL: [Live Site](https://nervous-neumann-de51a5.netlify.app/)
+- Live Site URL: [Live Site](https://project1-by-tanay.netlify.app/)
 
 ## My process
 
